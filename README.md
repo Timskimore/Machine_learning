@@ -1,4 +1,4 @@
-# Linear Regression with scikit‑learn
+# Linear Regression with Scikit‑Learn
 
 ## Overview  
 This project demonstrates an end‑to‑end linear regression workflow using Python’s scikit‑learn library. We leverage the California House Price dataset to predict median home values based on features like `median_income` and geographic metrics.
@@ -12,10 +12,10 @@ pip install requirements.txt
 
 ## Access the Data
 
-The data can be accessed from: 
+The data can be accessed from the csv file below: 
 ``` csv
 
-'california_house_price.csv' file
+california_house_price.csv
 ```
 
 ## Stepwise understanding of the regression workflow
