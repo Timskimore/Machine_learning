@@ -12,7 +12,11 @@ pip install requirements.txt
 
 ## Access the Data
 
-The data can be accessed from: 'california_house_price.csv' file
+The data can be accessed from: 
+``` csv
+
+'california_house_price.csv' file
+```
 
 ## Stepwise understanding of the regression workflow
 
